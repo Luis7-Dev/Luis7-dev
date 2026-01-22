@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Quem eu sou:
 
 Sou estudante de Ciência da Computação com foco em **desenvolvimento back-end** e **IA (Machine Learning)**.  
 Tenho interesse em construir sistemas que lidam com **dados reais**, **automação** e **inteligência aplicada**, unindo programação, banco de dados e modelos inteligentes.
@@ -22,13 +22,13 @@ Atualmente estudando e praticando:
 
 ---
 
-## 🎯 Objetivo
+## Meus desafios
 
 Me desenvolver como **dev back-end Python** com forte base em **banco de dados** e **Inteligência Artificial**, construindo projetos práticos e evoluindo para aplicações reais.
 
 ---
 
-## 🧰 Tecnologias
+## SKILLS
 
 ### Linguagens e back-end
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
