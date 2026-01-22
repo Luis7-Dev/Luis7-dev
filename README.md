@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luís Guilherme 👋
+#Luis Guilherme Lima
 
 🎓 Estudante de Ciência da Computação  
 💻 Foco em Back-end e Inteligência Artificial (Machine Learning)
@@ -63,9 +63,6 @@ Me desenvolver como **dev back-end Python** com forte base em **banco de dados**
 
 <div align="center">
 
-## 📈 Estatísticas
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luis7-Dev&show_icons=true&theme=default" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis7-Dev&layout=compact&theme=default" />
 
 </div>
