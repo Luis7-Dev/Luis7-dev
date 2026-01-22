@@ -1,68 +1,36 @@
-<div align="center">
+<div align="left">
 
-#Luis Guilherme Lima
+# Luís Guilherme 🤺
 
 🎓 Estudante de Ciência da Computação  
-💻 Foco em Back-end e Inteligência Artificial (Machine Learning)
+🧠 Back-end • IA (Machine Learning)
+
+<a href="https://github.com/Luis7-Dev">
+  <img src="https://img.shields.io/badge/GitHub-Luis7--Dev-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lu%C3%ADs-guilherme-lima-1b51a83a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Quem eu sou:
 
-Sou estudante de Ciência da Computação com foco em **desenvolvimento back-end** e **IA (Machine Learning)**.  
-Tenho interesse em construir sistemas que lidam com **dados reais**, **automação** e **inteligência aplicada**, unindo programação, banco de dados e modelos inteligentes.
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFclovmZmv_7Q/company-logo_200_200/company-logo_200_200/0/1664218357601/fuctura_logo?e=2147483647&t=25njee8Pr77fDG2uUpNCAziaXvItlRM_RedEl-2KxWU&v=beta" width="18" />
 
-Atualmente estudando e praticando:
-- Back-end com Python  
-- Banco de dados relacionais  
-- Fundamentos de Machine Learning  
-- Boas práticas de versionamento e projetos
+Python Full Stack  — FUCTURA
 
 ---
 
-## Meus desafios
+### Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-2E86AB?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-6F42C1?style=flat&logo=probot&logoColor=white" />
 
-Me desenvolver como **dev back-end Python** com forte base em **banco de dados** e **Inteligência Artificial**, construindo projetos práticos e evoluindo para aplicações reais.
-
----
-
-## SKILLS
-
-### Linguagens e back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-
-### Inteligência Artificial
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
-
----
-
-## 📌 Em construção
-
-- Projetos back-end com Python + MySQL  
-- APIs para sistemas de cadastro e análise de dados  
-- Experimentos com Machine Learning  
-- Portfólio técnico focado em resolver problemas reais
-
----
-
-## 🔗 GitHub
-
-👉 https://github.com/Luis7-Dev
-
----
-
-<div align="center">
-
-
-
-</div>
+## o que quero trabalhar:
+- Back-end com **Python**
+- Banco de dados com **MySQL**
+- IA aplicada (**Machine Learning**) e projetos práticos
