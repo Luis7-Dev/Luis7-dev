@@ -23,7 +23,7 @@ Python Full Stack  — FUCTURA
 
 ---
 
-### Stack
+### skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-2E86AB?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
